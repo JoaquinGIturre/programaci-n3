@@ -1,0 +1,16 @@
+{
+    "Peliculas": [
+        {
+            "id": 1,
+            "name": "El Origen",
+            "author": "Christopher Nolan",
+            "lanzamiento": 2010
+        },
+        {
+            "id": 2,
+            "name": "El Prestigio",
+            "author": "Christopher Nolan",
+            "lanzamiento": 2006
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+GET http://localhost:3001/Peliculas HTTP/1.1
+
+###
+
+GET http://localhost:3001/Peliculas/2 HTTP/1.1
+
+###
+
+POST http://localhost:3001/Peliculas HTTP/1.1
+Content-Type: application/json
+
+{
+   "title":"El Secreto de sus Ojos",
+    "author":"Eduardo Sacheri",
+    "lanzamiento":2009
+}
